@@ -1,0 +1,17 @@
+{
+	"apiVersion": 2,
+	"name": "slider/slider",
+	"version": "0.1.0",
+	"title": "Slider",
+	"category": "media",
+	"icon": "slides",
+	"description": "Slider block",
+	"supports": {
+			"align": ["center", "wide", "full"]
+		},
+
+	"textdomain": "slider",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
